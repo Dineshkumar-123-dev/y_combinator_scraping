@@ -1,0 +1,286 @@
+{
+  "data": [
+    {
+      "name": "Chris Fanini",
+      "linkedin": "https://www.linkedin.com/in/chrisfanini/",
+      "companyName": "Weebly",
+      "companyPage": "https://www.ycombinator.com/companies/weebly",
+      "website": "http://weebly.com",
+      "batch": "Winter 2007",
+      "location": "San Francisco"
+    },
+    {
+      "name": "David Rusenko",
+      "linkedin": "https://www.linkedin.com/in/drusenko",
+      "companyName": "Weebly",
+      "companyPage": "https://www.ycombinator.com/companies/weebly",
+      "website": "http://weebly.com",
+      "batch": "Winter 2007",
+      "location": "San Francisco"
+    },
+    {
+      "name": "Sam Wurzel",
+      "linkedin": "https://www.linkedin.com/in/sam-wurzel/",
+      "companyName": "Octopart",
+      "companyPage": "https://www.ycombinator.com/companies/octopart",
+      "website": "http://octopart.com",
+      "batch": "Winter 2007",
+      "location": "New York"
+    },
+    {
+      "name": "Robby Walker",
+      "linkedin": "https://www.linkedin.com/in/robbywalker",
+      "companyName": "Zenter",
+      "companyPage": "https://www.ycombinator.com/companies/zenter",
+      "website": "https://googleblog.blogspot.com/2007/06/more-sharing.html",
+      "batch": "Winter 2007",
+      "location": "Mountain View"
+    },
+    {
+      "name": "Jeff Michels",
+      "linkedin": "https://www.linkedin.com/in/jeffmichels",
+      "companyName": "View3",
+      "companyPage": "https://www.ycombinator.com/companies/view3",
+      "website": "http://view3.com",
+      "batch": "Winter 2007",
+      "location": ""
+    },
+    {
+      "name": "Phil Kast",
+      "linkedin": "https://www.linkedin.com/in/phillip-kast-2821833/",
+      "companyName": "WriteWith",
+      "companyPage": "https://www.ycombinator.com/companies/writewith",
+      "website": "http://writewith.com",
+      "batch": "Winter 2007",
+      "location": "Corvallis, OR"
+    },
+    {
+      "name": "Joe Cooper",
+      "linkedin": "https://www.linkedin.com/in/jamiecameron2",
+      "companyName": "Virtualmin",
+      "companyPage": "https://www.ycombinator.com/companies/virtualmin",
+      "website": "http://virtualmin.com",
+      "batch": "Winter 2007",
+      "location": "Mountain View"
+    },
+    {
+      "name": "Harish Agarwal",
+      "linkedin": "https://www.linkedin.com/in/harish-p-agarwal/",
+      "companyName": "Nori",
+      "companyPage": "https://www.ycombinator.com/companies/nori",
+      "website": "https://nori.ai",
+      "batch": "Fall 2025",
+      "location": "New York"
+    },
+    {
+      "name": "Kulveer Taggar",
+      "linkedin": "https://www.linkedin.com/in/oliverortlieb/",
+      "companyName": "Y Combinator",
+      "companyPage": "https://www.ycombinator.com/companies/y-combinator",
+      "website": "https://www.ycombinator.com",
+      "batch": "",
+      "location": ""
+    },
+    {
+      "name": "Justin Kan",
+      "linkedin": "https://www.linkedin.com/in/justinkan",
+      "companyName": "Twitch",
+      "companyPage": "https://www.ycombinator.com/companies/twitch",
+      "website": "http://twitch.com",
+      "batch": "Winter 2007",
+      "location": "San Francisco"
+    },
+    {
+      "name": "Patrick Collison",
+      "linkedin": "https://www.linkedin.com/in/patrickcollison/",
+      "companyName": "Stripe",
+      "companyPage": "https://www.ycombinator.com/companies/stripe",
+      "website": "http://stripe.com",
+      "batch": "Summer 2009",
+      "location": "San Francisco"
+    },
+    {
+      "name": "Amit Manjhi",
+      "linkedin": "https://www.linkedin.com/in/amitmanjhi/",
+      "companyName": "Buxfer",
+      "companyPage": "https://www.ycombinator.com/companies/buxfer",
+      "website": "https://www.buxfer.com",
+      "batch": "Winter 2007",
+      "location": "Santa Clara, CA"
+    },
+    {
+      "name": "Andres Morey",
+      "linkedin": "https://www.linkedin.com/in/andres-morey-7227203",
+      "companyName": "Octopart",
+      "companyPage": "https://www.ycombinator.com/companies/octopart",
+      "website": "http://octopart.com",
+      "batch": "Winter 2007",
+      "location": "New York"
+    },
+    {
+      "name": "Dan Veltri",
+      "linkedin": "https://www.linkedin.com/in/drusenko",
+      "companyName": "Weebly",
+      "companyPage": "https://www.ycombinator.com/companies/weebly",
+      "website": "http://weebly.com",
+      "batch": "Winter 2007",
+      "location": "San Francisco"
+    },
+    {
+      "name": "Emmett Shear",
+      "linkedin": "https://www.linkedin.com/in/emmettshear",
+      "companyName": "Twitch",
+      "companyPage": "https://www.ycombinator.com/companies/twitch",
+      "website": "http://twitch.com",
+      "batch": "Winter 2007",
+      "location": "San Francisco"
+    },
+    {
+      "name": "Jamie Cameron",
+      "linkedin": "https://www.linkedin.com/in/jamiecameron2",
+      "companyName": "Virtualmin",
+      "companyPage": "https://www.ycombinator.com/companies/virtualmin",
+      "website": "http://virtualmin.com",
+      "batch": "Winter 2007",
+      "location": "Mountain View"
+    },
+    {
+      "name": "Marie Brattberg",
+      "linkedin": "https://www.linkedin.com/in/mariebrattberg/",
+      "companyName": "Heysan",
+      "companyPage": "https://www.ycombinator.com/companies/heysan",
+      "website": "http://heysan.com",
+      "batch": "Winter 2007",
+      "location": "San Francisco"
+    },
+    {
+      "name": "Shashank Pandit",
+      "linkedin": "https://www.linkedin.com/in/shashankpandit",
+      "companyName": "Buxfer",
+      "companyPage": "https://www.ycombinator.com/companies/buxfer",
+      "website": "https://www.buxfer.com",
+      "batch": "Winter 2007",
+      "location": "Santa Clara, CA"
+    },
+    {
+      "name": "Joshua Wilson",
+      "linkedin": "https://www.linkedin.com/in/makanikai/",
+      "companyName": "Tsumobi",
+      "companyPage": "https://www.ycombinator.com/companies/tsumobi",
+      "website": "http://tsumobi.com",
+      "batch": "Winter 2007",
+      "location": "Cambridge, MA"
+    },
+    {
+      "name": "Pär Lindhe",
+      "linkedin": "https://www.linkedin.com/in/parlindhe",
+      "companyName": "Heysan",
+      "companyPage": "https://www.ycombinator.com/companies/heysan",
+      "website": "http://heysan.com",
+      "batch": "Winter 2007",
+      "location": "San Francisco"
+    },
+    {
+      "name": "Parham Michael Ossareh",
+      "linkedin": "https://www.linkedin.com/in/ossareh/",
+      "companyName": "Heysan",
+      "companyPage": "https://www.ycombinator.com/companies/heysan",
+      "website": "http://heysan.com",
+      "batch": "Winter 2007",
+      "location": "San Francisco"
+    },
+    {
+      "name": "Adam Bouhenguel",
+      "linkedin": "https://www.linkedin.com/in/adam-bouhenguel-a587951",
+      "companyName": "Tsumobi",
+      "companyPage": "https://www.ycombinator.com/companies/tsumobi",
+      "website": "http://tsumobi.com",
+      "batch": "Winter 2007",
+      "location": "Cambridge, MA"
+    },
+    {
+      "name": "Gustaf Alstromer",
+      "linkedin": "https://www.linkedin.com/in/oliverortlieb/",
+      "companyName": "Y Combinator",
+      "companyPage": "https://www.ycombinator.com/companies/y-combinator",
+      "website": "https://www.ycombinator.com",
+      "batch": "",
+      "location": ""
+    },
+    {
+      "name": "Kyle Vogt",
+      "linkedin": "https://www.linkedin.com/in/kylevogt/",
+      "companyName": "Twitch",
+      "companyPage": "https://www.ycombinator.com/companies/twitch",
+      "website": "http://twitch.com",
+      "batch": "Winter 2007",
+      "location": "San Francisco"
+    },
+    {
+      "name": "Harj Taggar",
+      "linkedin": "https://www.linkedin.com/in/oliverortlieb/",
+      "companyName": "Y Combinator",
+      "companyPage": "https://www.ycombinator.com/companies/y-combinator",
+      "website": "https://www.ycombinator.com",
+      "batch": "",
+      "location": ""
+    },
+    {
+      "name": "Paul McKellar",
+      "linkedin": "",
+      "companyName": "Socialmoth",
+      "companyPage": "https://www.ycombinator.com/companies/socialmoth",
+      "website": "http://socialmoth.com",
+      "batch": "Winter 2007",
+      "location": "San Francisco"
+    },
+    {
+      "name": "Wayne Crosby",
+      "linkedin": "https://www.linkedin.com/in/wcrosby/",
+      "companyName": "OrgOrg",
+      "companyPage": "https://www.ycombinator.com/companies/orgorg",
+      "website": "https://orgorg.com",
+      "batch": "Summer 2024",
+      "location": "Los Altos, CA"
+    },
+    {
+      "name": "Ashutosh Saxena",
+      "linkedin": "https://www.linkedin.com/in/saxenaashutosh",
+      "companyName": "View3",
+      "companyPage": "https://www.ycombinator.com/companies/view3",
+      "website": "http://view3.com",
+      "batch": "Winter 2007",
+      "location": ""
+    }
+  ],
+  "processed_urls": [
+    "https://www.ycombinator.com/founders/shashank-pandit",
+    "https://www.ycombinator.com/founders/kyle-vogt",
+    "https://www.ycombinator.com/founders/kulveer-taggar",
+    "https://www.ycombinator.com/founders/harish-agarwal",
+    "https://www.ycombinator.com/founders/par-lindhe",
+    "https://www.ycombinator.com/founders/adam-bouhenguel",
+    "https://www.ycombinator.com/founders/jamie-cameron",
+    "https://www.ycombinator.com/founders/phil-kast",
+    "https://www.ycombinator.com/founders/ashutosh-saxena",
+    "https://www.ycombinator.com/founders/joshua-wilson",
+    "https://www.ycombinator.com/founders/chris-fanini",
+    "https://www.ycombinator.com/founders/paul-mckellar",
+    "https://www.ycombinator.com/founders/joe-cooper",
+    "https://www.ycombinator.com/founders/patrick-collison",
+    "https://www.ycombinator.com/founders/harj-taggar",
+    "https://www.ycombinator.com/founders/jeff-michels",
+    "https://www.ycombinator.com/founders/sam-wurzel",
+    "https://www.ycombinator.com/founders/parham-michael-ossareh",
+    "https://www.ycombinator.com/founders/marie-brattberg",
+    "https://www.ycombinator.com/founders/wayne-crosby",
+    "https://www.ycombinator.com/founders/dan-veltri",
+    "https://www.ycombinator.com/founders/andres-morey",
+    "https://www.ycombinator.com/founders/robby-walker",
+    "https://www.ycombinator.com/founders/emmett-shear",
+    "https://www.ycombinator.com/founders/amit-manjhi",
+    "https://www.ycombinator.com/founders/gustaf-alstromer",
+    "https://www.ycombinator.com/founders/justin-kan",
+    "https://www.ycombinator.com/founders/david-rusenko"
+  ]
+}

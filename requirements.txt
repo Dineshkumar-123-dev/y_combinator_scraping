@@ -2,3 +2,6 @@ playwright
 beautifulsoup4
 pandas
 openpyxl
+O365
+gspread
+oauth2client
